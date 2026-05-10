@@ -1,0 +1,11 @@
+date,category,amount,payment_method,note
+2024-07-01,Rent,8000.0,Net Banking,Monthly rent
+2024-08-01,Rent,8000.0,Net Banking,Monthly rent
+2024-09-01,Rent,8000.0,Net Banking,Monthly rent
+2024-10-01,Rent,8000.0,Net Banking,Monthly rent
+2024-11-01,Rent,8000.0,Net Banking,Monthly rent
+2024-12-01,Rent,8000.0,Net Banking,Monthly rent
+2024-11-17,Education,4998.18,Cash,Software subscription
+2024-07-14,Education,4978.17,Debit Card,Stationery
+2024-10-07,Education,4975.82,Net Banking,Coaching fees
+2024-11-01,Education,4975.36,Debit Card,Books

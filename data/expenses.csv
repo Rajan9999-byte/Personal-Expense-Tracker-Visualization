@@ -1,0 +1,562 @@
+date,category,amount,payment_method,note
+2024-07-01,Rent,8000.0,Net Banking,Monthly rent
+2024-07-01,Food & Dining,632.01,Credit Card,Restaurant dinner
+2024-07-02,Transportation,354.51,Net Banking,Uber ride
+2024-07-02,Education,643.02,UPI,Books
+2024-07-03,Personal Care,521.41,Net Banking,Skincare products
+2024-07-03,Personal Care,393.66,Cash,Perfume
+2024-07-04,Food & Dining,643.22,Credit Card,Street food
+2024-07-04,Healthcare,700.17,Credit Card,Lab tests
+2024-07-04,Transportation,91.74,UPI,Metro card recharge
+2024-07-05,Utilities,2114.26,Cash,Mobile recharge
+2024-07-05,Transportation,487.9,Cash,Uber ride
+2024-07-05,Personal Care,305.22,Net Banking,Salon visit
+2024-07-06,Entertainment,1086.4,UPI,Netflix subscription
+2024-07-06,Utilities,2470.44,Credit Card,Electricity bill
+2024-07-06,Education,1750.88,Debit Card,Books
+2024-07-06,Healthcare,839.49,Debit Card,Doctor visit
+2024-07-06,Shopping,1742.18,Credit Card,Clothes
+2024-07-07,Education,1714.77,Net Banking,Books
+2024-07-07,Healthcare,1717.13,UPI,Medicines
+2024-07-07,Food & Dining,673.28,Cash,Cafe coffee
+2024-07-07,Transportation,144.94,Net Banking,Metro card recharge
+2024-07-08,Groceries,595.63,Cash,Local market
+2024-07-08,Utilities,779.26,Net Banking,Mobile recharge
+2024-07-09,Education,4540.2,Cash,Coaching fees
+2024-07-09,Entertainment,1496.26,Credit Card,OTT subscription
+2024-07-09,Groceries,290.91,UPI,BigBasket order
+2024-07-10,Shopping,2438.61,Cash,Home decor
+2024-07-10,Transportation,223.15,Net Banking,Petrol
+2024-07-11,Utilities,2442.16,UPI,Electricity bill
+2024-07-11,Personal Care,625.61,Debit Card,Haircut
+2024-07-11,Utilities,1369.53,Cash,Electricity bill
+2024-07-11,Utilities,2443.78,Credit Card,Mobile recharge
+2024-07-11,Transportation,441.73,Debit Card,Bus ticket
+2024-07-12,Entertainment,313.97,Credit Card,OTT subscription
+2024-07-12,Personal Care,742.95,Net Banking,Salon visit
+2024-07-12,Groceries,219.48,Debit Card,Vegetables
+2024-07-12,Entertainment,181.1,Net Banking,Movie tickets
+2024-07-12,Transportation,379.36,UPI,Bus ticket
+2024-07-13,Shopping,2081.33,Net Banking,Clothes
+2024-07-13,Utilities,1555.35,Net Banking,Gas bill
+2024-07-14,Personal Care,628.69,Credit Card,Salon visit
+2024-07-14,Education,4978.17,Debit Card,Stationery
+2024-07-15,Groceries,321.0,Credit Card,BigBasket order
+2024-07-15,Healthcare,237.86,Net Banking,Medicines
+2024-07-15,Entertainment,110.07,UPI,Netflix subscription
+2024-07-15,Transportation,457.44,Debit Card,Uber ride
+2024-07-15,Personal Care,266.6,Cash,Skincare products
+2024-07-16,Shopping,2253.05,Net Banking,Home decor
+2024-07-16,Groceries,443.0,Cash,Fruits
+2024-07-16,Entertainment,232.06,Cash,Concert
+2024-07-16,Education,2349.96,UPI,Online course
+2024-07-16,Food & Dining,411.7,Debit Card,Zomato order
+2024-07-17,Entertainment,366.29,Cash,Netflix subscription
+2024-07-17,Education,1325.7,Cash,Books
+2024-07-18,Groceries,1008.02,Net Banking,BigBasket order
+2024-07-19,Personal Care,685.22,UPI,Skincare products
+2024-07-20,Education,2685.39,Credit Card,Stationery
+2024-07-20,Food & Dining,257.01,UPI,Street food
+2024-07-21,Groceries,485.25,Net Banking,Fruits
+2024-07-21,Shopping,812.72,Credit Card,Amazon purchase
+2024-07-21,Personal Care,142.67,Debit Card,Haircut
+2024-07-22,Groceries,702.85,Net Banking,Local market
+2024-07-23,Personal Care,156.08,Credit Card,Haircut
+2024-07-24,Transportation,353.85,Credit Card,Petrol
+2024-07-24,Transportation,473.72,Net Banking,Auto fare
+2024-07-24,Food & Dining,552.6,Cash,Lunch with friends
+2024-07-24,Personal Care,321.46,Debit Card,Skincare products
+2024-07-24,Healthcare,629.63,Cash,Medicines
+2024-07-25,Groceries,516.18,UPI,BigBasket order
+2024-07-25,Groceries,821.16,Net Banking,BigBasket order
+2024-07-25,Transportation,291.94,Net Banking,Metro card recharge
+2024-07-26,Healthcare,1785.56,Credit Card,Lab tests
+2024-07-26,Utilities,815.49,Net Banking,Water bill
+2024-07-27,Personal Care,105.48,Net Banking,Salon visit
+2024-07-27,Transportation,472.52,Credit Card,Metro card recharge
+2024-07-27,Transportation,450.37,Net Banking,Auto fare
+2024-07-27,Utilities,1063.51,Credit Card,Water bill
+2024-07-27,Entertainment,1062.5,Debit Card,OTT subscription
+2024-07-28,Utilities,2310.67,UPI,Electricity bill
+2024-07-28,Education,4232.07,UPI,Online course
+2024-07-28,Healthcare,1588.01,Debit Card,Medicines
+2024-07-28,Groceries,751.68,Cash,Dairy products
+2024-07-29,Transportation,83.86,Credit Card,Bus ticket
+2024-07-30,Healthcare,1248.52,Credit Card,Gym membership
+2024-07-31,Food & Dining,350.37,UPI,Cafe coffee
+2024-07-31,Entertainment,1054.89,UPI,Concert
+2024-08-01,Rent,8000.0,Net Banking,Monthly rent
+2024-08-01,Education,4882.27,Credit Card,Books
+2024-08-01,Shopping,2935.76,Credit Card,Books
+2024-08-01,Food & Dining,266.58,Debit Card,Street food
+2024-08-01,Entertainment,473.53,UPI,Gaming
+2024-08-01,Food & Dining,708.09,Credit Card,Restaurant dinner
+2024-08-02,Healthcare,749.34,Credit Card,Medicines
+2024-08-02,Food & Dining,579.02,Cash,Cafe coffee
+2024-08-02,Utilities,2228.71,Debit Card,Water bill
+2024-08-02,Personal Care,379.77,Net Banking,Salon visit
+2024-08-03,Transportation,444.67,Debit Card,Auto fare
+2024-08-04,Utilities,576.51,Net Banking,Gas bill
+2024-08-04,Healthcare,1511.38,Debit Card,Gym membership
+2024-08-04,Personal Care,180.95,Net Banking,Skincare products
+2024-08-04,Utilities,588.77,Cash,Electricity bill
+2024-08-04,Personal Care,747.9,Net Banking,Skincare products
+2024-08-05,Education,814.88,Debit Card,Software subscription
+2024-08-05,Healthcare,1394.1,UPI,Lab tests
+2024-08-05,Personal Care,316.5,Cash,Salon visit
+2024-08-06,Utilities,1608.82,Credit Card,Gas bill
+2024-08-06,Education,3547.93,Credit Card,Software subscription
+2024-08-06,Utilities,1312.15,UPI,Water bill
+2024-08-06,Utilities,920.37,Net Banking,Mobile recharge
+2024-08-07,Groceries,641.79,Credit Card,Dairy products
+2024-08-07,Groceries,993.74,Credit Card,BigBasket order
+2024-08-07,Utilities,1530.9,Net Banking,Water bill
+2024-08-08,Entertainment,1041.91,Credit Card,Netflix subscription
+2024-08-09,Food & Dining,180.04,Cash,Lunch with friends
+2024-08-09,Transportation,254.94,Net Banking,Auto fare
+2024-08-10,Groceries,599.65,Credit Card,BigBasket order
+2024-08-10,Transportation,400.29,Credit Card,Auto fare
+2024-08-10,Personal Care,425.18,Net Banking,Skincare products
+2024-08-10,Transportation,255.41,Cash,Bus ticket
+2024-08-11,Healthcare,1910.07,Cash,Vitamins
+2024-08-11,Personal Care,398.72,Net Banking,Grooming kit
+2024-08-11,Shopping,2307.87,Cash,Books
+2024-08-11,Utilities,2003.55,Debit Card,Mobile recharge
+2024-08-11,Groceries,826.75,Debit Card,Fruits
+2024-08-12,Utilities,968.99,Debit Card,Water bill
+2024-08-13,Transportation,112.27,Credit Card,Petrol
+2024-08-13,Shopping,2207.33,UPI,Books
+2024-08-13,Education,1988.97,Cash,Stationery
+2024-08-13,Food & Dining,284.44,Cash,Street food
+2024-08-13,Food & Dining,706.88,Net Banking,Street food
+2024-08-14,Food & Dining,762.78,Debit Card,Street food
+2024-08-14,Education,2921.99,Net Banking,Software subscription
+2024-08-14,Entertainment,783.52,Debit Card,Gaming
+2024-08-14,Groceries,229.02,Debit Card,Fruits
+2024-08-15,Groceries,1119.54,Net Banking,Dairy products
+2024-08-15,Food & Dining,739.5,Net Banking,Lunch with friends
+2024-08-16,Transportation,339.24,Credit Card,Petrol
+2024-08-17,Food & Dining,319.1,Debit Card,Restaurant dinner
+2024-08-17,Groceries,526.85,Cash,Vegetables
+2024-08-18,Utilities,2169.82,Cash,Electricity bill
+2024-08-18,Personal Care,136.46,Debit Card,Skincare products
+2024-08-18,Transportation,401.55,UPI,Uber ride
+2024-08-18,Entertainment,379.1,UPI,OTT subscription
+2024-08-19,Entertainment,276.71,UPI,OTT subscription
+2024-08-19,Entertainment,751.05,Debit Card,Concert
+2024-08-20,Transportation,400.01,Credit Card,Metro card recharge
+2024-08-20,Transportation,310.41,Debit Card,Bus ticket
+2024-08-21,Education,4736.62,Credit Card,Online course
+2024-08-21,Entertainment,242.66,Debit Card,OTT subscription
+2024-08-21,Transportation,408.3,Net Banking,Uber ride
+2024-08-21,Healthcare,1158.94,Debit Card,Doctor visit
+2024-08-22,Healthcare,222.77,Cash,Gym membership
+2024-08-22,Transportation,245.09,Debit Card,Petrol
+2024-08-22,Shopping,1475.82,Net Banking,Electronics
+2024-08-22,Personal Care,642.25,Cash,Grooming kit
+2024-08-22,Utilities,1144.61,Credit Card,Electricity bill
+2024-08-23,Groceries,443.86,Cash,Dairy products
+2024-08-23,Education,2013.78,Cash,Coaching fees
+2024-08-23,Shopping,1616.38,Debit Card,Electronics
+2024-08-24,Utilities,2260.64,Debit Card,Mobile recharge
+2024-08-24,Food & Dining,485.81,Credit Card,Zomato order
+2024-08-24,Entertainment,1108.1,Cash,OTT subscription
+2024-08-25,Groceries,845.9,Cash,Fruits
+2024-08-25,Food & Dining,210.48,Credit Card,Street food
+2024-08-26,Utilities,1827.92,Debit Card,Gas bill
+2024-08-26,Personal Care,471.65,Cash,Perfume
+2024-08-27,Healthcare,1465.14,Debit Card,Lab tests
+2024-08-27,Utilities,961.08,Credit Card,Water bill
+2024-08-27,Transportation,384.3,Credit Card,Auto fare
+2024-08-28,Groceries,476.5,Net Banking,Dairy products
+2024-08-28,Utilities,2461.02,Credit Card,Water bill
+2024-08-29,Healthcare,522.99,UPI,Vitamins
+2024-08-29,Shopping,1040.64,UPI,Home decor
+2024-08-30,Shopping,2022.25,Cash,Amazon purchase
+2024-08-30,Food & Dining,523.14,Cash,Street food
+2024-08-30,Groceries,540.71,UPI,Vegetables
+2024-08-31,Transportation,419.95,Cash,Petrol
+2024-08-31,Transportation,309.66,UPI,Auto fare
+2024-08-31,Shopping,2490.08,Debit Card,Amazon purchase
+2024-08-31,Entertainment,265.83,Cash,OTT subscription
+2024-09-01,Rent,8000.0,Net Banking,Monthly rent
+2024-09-01,Entertainment,1185.97,Cash,Gaming
+2024-09-01,Groceries,497.35,Net Banking,Fruits
+2024-09-01,Utilities,1637.26,UPI,Mobile recharge
+2024-09-01,Transportation,476.42,Credit Card,Auto fare
+2024-09-01,Utilities,1820.86,Credit Card,Internet bill
+2024-09-02,Personal Care,152.55,UPI,Grooming kit
+2024-09-02,Groceries,889.37,Cash,Vegetables
+2024-09-03,Entertainment,503.35,Debit Card,Gaming
+2024-09-04,Entertainment,1393.48,Net Banking,Netflix subscription
+2024-09-05,Transportation,295.05,Credit Card,Metro card recharge
+2024-09-05,Shopping,492.81,Credit Card,Electronics
+2024-09-05,Utilities,1378.31,Cash,Water bill
+2024-09-05,Education,4742.04,Net Banking,Software subscription
+2024-09-06,Groceries,280.44,UPI,Fruits
+2024-09-06,Healthcare,1286.68,UPI,Doctor visit
+2024-09-06,Entertainment,1446.68,Net Banking,OTT subscription
+2024-09-06,Food & Dining,799.72,Debit Card,Lunch with friends
+2024-09-07,Shopping,1570.35,Cash,Electronics
+2024-09-08,Education,3356.53,Cash,Online course
+2024-09-08,Groceries,547.96,Debit Card,Vegetables
+2024-09-09,Shopping,1190.47,Cash,Electronics
+2024-09-10,Personal Care,125.69,UPI,Salon visit
+2024-09-10,Utilities,1146.55,Cash,Mobile recharge
+2024-09-10,Food & Dining,577.48,Net Banking,Street food
+2024-09-10,Education,743.92,Net Banking,Coaching fees
+2024-09-11,Groceries,825.41,UPI,Local market
+2024-09-11,Utilities,1598.44,Debit Card,Gas bill
+2024-09-11,Groceries,321.43,Net Banking,Local market
+2024-09-11,Shopping,1139.03,UPI,Home decor
+2024-09-11,Education,919.44,UPI,Stationery
+2024-09-12,Shopping,1645.61,Debit Card,Home decor
+2024-09-13,Education,4256.26,Cash,Books
+2024-09-13,Groceries,751.27,Cash,Local market
+2024-09-13,Personal Care,622.4,Credit Card,Haircut
+2024-09-14,Education,2029.44,Net Banking,Coaching fees
+2024-09-14,Food & Dining,333.85,Debit Card,Lunch with friends
+2024-09-14,Groceries,1065.26,Cash,Dairy products
+2024-09-15,Healthcare,798.39,Net Banking,Gym membership
+2024-09-15,Groceries,1132.85,Credit Card,Local market
+2024-09-15,Education,1551.03,Cash,Online course
+2024-09-15,Healthcare,1540.47,Cash,Gym membership
+2024-09-16,Groceries,1164.82,Credit Card,Dairy products
+2024-09-16,Healthcare,1765.46,Cash,Doctor visit
+2024-09-17,Groceries,215.35,Credit Card,Fruits
+2024-09-17,Shopping,502.04,Debit Card,Electronics
+2024-09-17,Education,3424.26,Debit Card,Software subscription
+2024-09-17,Education,4793.63,Cash,Software subscription
+2024-09-17,Food & Dining,551.35,Credit Card,Cafe coffee
+2024-09-18,Transportation,245.29,UPI,Uber ride
+2024-09-18,Groceries,366.36,Debit Card,BigBasket order
+2024-09-19,Healthcare,1633.06,Debit Card,Lab tests
+2024-09-20,Education,1155.06,Net Banking,Stationery
+2024-09-20,Shopping,758.96,UPI,Home decor
+2024-09-20,Education,3288.7,Credit Card,Stationery
+2024-09-21,Shopping,926.91,Debit Card,Books
+2024-09-21,Utilities,1833.68,Cash,Water bill
+2024-09-21,Personal Care,210.58,Cash,Salon visit
+2024-09-21,Utilities,1777.88,Cash,Water bill
+2024-09-21,Groceries,1045.3,Credit Card,Fruits
+2024-09-22,Transportation,156.74,Net Banking,Metro card recharge
+2024-09-22,Utilities,2485.38,Debit Card,Electricity bill
+2024-09-22,Education,1735.16,Net Banking,Online course
+2024-09-22,Groceries,1032.84,Debit Card,Local market
+2024-09-23,Healthcare,594.21,Credit Card,Vitamins
+2024-09-23,Utilities,1855.53,Credit Card,Electricity bill
+2024-09-23,Food & Dining,350.81,Cash,Zomato order
+2024-09-23,Healthcare,1518.25,UPI,Lab tests
+2024-09-23,Healthcare,1545.47,Credit Card,Medicines
+2024-09-24,Personal Care,713.52,Debit Card,Perfume
+2024-09-24,Personal Care,739.44,Credit Card,Salon visit
+2024-09-25,Utilities,1993.12,Debit Card,Electricity bill
+2024-09-25,Groceries,1162.89,Credit Card,Local market
+2024-09-25,Education,4852.71,Net Banking,Coaching fees
+2024-09-25,Transportation,405.81,UPI,Metro card recharge
+2024-09-26,Transportation,254.65,Debit Card,Bus ticket
+2024-09-26,Education,4200.88,Debit Card,Online course
+2024-09-26,Entertainment,760.07,Net Banking,OTT subscription
+2024-09-26,Healthcare,1847.46,Credit Card,Doctor visit
+2024-09-26,Groceries,1109.39,Debit Card,Fruits
+2024-09-27,Shopping,422.44,UPI,Electronics
+2024-09-28,Transportation,93.74,Net Banking,Auto fare
+2024-09-28,Education,2541.4,Net Banking,Stationery
+2024-09-28,Shopping,2690.62,UPI,Books
+2024-09-28,Education,4725.74,Debit Card,Online course
+2024-09-29,Entertainment,720.74,Credit Card,Concert
+2024-09-29,Transportation,491.42,Debit Card,Bus ticket
+2024-09-29,Healthcare,308.99,Debit Card,Medicines
+2024-09-30,Groceries,291.67,Credit Card,Dairy products
+2024-10-01,Rent,8000.0,Net Banking,Monthly rent
+2024-10-01,Food & Dining,661.42,Credit Card,Restaurant dinner
+2024-10-02,Entertainment,196.05,Net Banking,Netflix subscription
+2024-10-02,Entertainment,1238.27,Credit Card,Concert
+2024-10-02,Shopping,2429.34,Net Banking,Amazon purchase
+2024-10-02,Utilities,2216.81,Credit Card,Internet bill
+2024-10-02,Personal Care,275.46,Credit Card,Haircut
+2024-10-03,Shopping,340.12,Credit Card,Home decor
+2024-10-04,Food & Dining,263.26,UPI,Restaurant dinner
+2024-10-04,Education,2867.38,UPI,Stationery
+2024-10-04,Groceries,978.02,Net Banking,Dairy products
+2024-10-05,Groceries,703.84,Net Banking,BigBasket order
+2024-10-06,Utilities,1416.09,UPI,Electricity bill
+2024-10-06,Groceries,1047.3,Cash,BigBasket order
+2024-10-06,Groceries,912.4,Cash,BigBasket order
+2024-10-06,Transportation,194.95,Credit Card,Uber ride
+2024-10-06,Shopping,1042.54,Net Banking,Home decor
+2024-10-07,Education,4975.82,Net Banking,Coaching fees
+2024-10-07,Groceries,705.55,Cash,BigBasket order
+2024-10-07,Transportation,433.76,Net Banking,Auto fare
+2024-10-08,Groceries,1088.09,Cash,Vegetables
+2024-10-08,Groceries,598.73,UPI,Vegetables
+2024-10-08,Education,1906.36,Debit Card,Coaching fees
+2024-10-08,Shopping,2154.42,Cash,Amazon purchase
+2024-10-09,Transportation,91.95,UPI,Metro card recharge
+2024-10-10,Personal Care,141.99,Net Banking,Perfume
+2024-10-10,Healthcare,1406.02,Cash,Lab tests
+2024-10-11,Food & Dining,779.46,Net Banking,Cafe coffee
+2024-10-11,Healthcare,386.48,Net Banking,Medicines
+2024-10-11,Shopping,2073.19,Credit Card,Amazon purchase
+2024-10-11,Healthcare,1721.67,Debit Card,Doctor visit
+2024-10-12,Entertainment,1230.11,Net Banking,OTT subscription
+2024-10-12,Personal Care,118.38,Debit Card,Haircut
+2024-10-12,Shopping,1037.83,Debit Card,Electronics
+2024-10-13,Food & Dining,267.91,Credit Card,Lunch with friends
+2024-10-13,Education,813.13,UPI,Online course
+2024-10-13,Personal Care,250.59,Cash,Grooming kit
+2024-10-14,Shopping,1299.14,Debit Card,Home decor
+2024-10-14,Transportation,447.5,Credit Card,Auto fare
+2024-10-14,Food & Dining,588.08,Debit Card,Street food
+2024-10-15,Groceries,807.08,Cash,Vegetables
+2024-10-15,Entertainment,1156.92,UPI,Concert
+2024-10-15,Education,999.0,Net Banking,Stationery
+2024-10-15,Personal Care,566.99,UPI,Skincare products
+2024-10-16,Food & Dining,155.0,Debit Card,Restaurant dinner
+2024-10-16,Shopping,2363.23,Debit Card,Electronics
+2024-10-16,Transportation,53.48,Cash,Auto fare
+2024-10-16,Shopping,1326.56,Credit Card,Home decor
+2024-10-17,Healthcare,329.74,UPI,Gym membership
+2024-10-17,Food & Dining,448.84,UPI,Cafe coffee
+2024-10-17,Education,3080.3,Cash,Coaching fees
+2024-10-17,Transportation,232.26,Debit Card,Auto fare
+2024-10-17,Groceries,1032.03,Debit Card,BigBasket order
+2024-10-18,Transportation,159.49,Net Banking,Petrol
+2024-10-18,Personal Care,155.05,Debit Card,Salon visit
+2024-10-18,Entertainment,566.3,Credit Card,Movie tickets
+2024-10-18,Personal Care,543.26,Net Banking,Perfume
+2024-10-19,Healthcare,831.98,Credit Card,Medicines
+2024-10-19,Transportation,115.9,Credit Card,Auto fare
+2024-10-20,Shopping,2352.58,UPI,Clothes
+2024-10-20,Groceries,663.95,Net Banking,Dairy products
+2024-10-20,Groceries,881.13,Net Banking,Dairy products
+2024-10-20,Healthcare,1755.64,Debit Card,Medicines
+2024-10-20,Groceries,268.29,Cash,Vegetables
+2024-10-21,Food & Dining,378.76,UPI,Cafe coffee
+2024-10-21,Groceries,651.91,UPI,Vegetables
+2024-10-21,Utilities,653.46,UPI,Mobile recharge
+2024-10-22,Personal Care,369.14,Net Banking,Perfume
+2024-10-22,Food & Dining,442.33,Net Banking,Restaurant dinner
+2024-10-22,Healthcare,1289.01,Net Banking,Medicines
+2024-10-22,Food & Dining,442.84,Debit Card,Zomato order
+2024-10-22,Personal Care,552.29,UPI,Skincare products
+2024-10-23,Groceries,724.07,Net Banking,Local market
+2024-10-23,Healthcare,871.13,Debit Card,Gym membership
+2024-10-23,Education,3985.09,Net Banking,Online course
+2024-10-23,Healthcare,318.64,UPI,Vitamins
+2024-10-24,Utilities,1003.99,Net Banking,Internet bill
+2024-10-24,Healthcare,346.7,Credit Card,Lab tests
+2024-10-24,Utilities,2435.39,Cash,Internet bill
+2024-10-24,Transportation,189.31,Cash,Metro card recharge
+2024-10-25,Personal Care,165.42,Cash,Perfume
+2024-10-25,Healthcare,232.81,Debit Card,Medicines
+2024-10-26,Healthcare,1905.8,Cash,Medicines
+2024-10-26,Entertainment,1499.97,Credit Card,Movie tickets
+2024-10-27,Transportation,278.46,Net Banking,Bus ticket
+2024-10-27,Food & Dining,580.25,Net Banking,Restaurant dinner
+2024-10-27,Education,1194.14,Credit Card,Software subscription
+2024-10-28,Groceries,243.69,Debit Card,Local market
+2024-10-28,Groceries,810.6,Cash,Local market
+2024-10-29,Entertainment,533.26,Cash,Netflix subscription
+2024-10-29,Healthcare,1420.95,Net Banking,Gym membership
+2024-10-29,Groceries,969.44,Cash,Dairy products
+2024-10-29,Personal Care,393.06,Credit Card,Skincare products
+2024-10-29,Shopping,2657.11,UPI,Books
+2024-10-30,Personal Care,754.01,Net Banking,Haircut
+2024-10-30,Utilities,667.75,Credit Card,Water bill
+2024-10-30,Groceries,1105.31,Credit Card,Fruits
+2024-10-31,Entertainment,1243.38,Debit Card,Movie tickets
+2024-11-01,Rent,8000.0,Net Banking,Monthly rent
+2024-11-01,Food & Dining,407.7,Debit Card,Restaurant dinner
+2024-11-01,Education,4975.36,Debit Card,Books
+2024-11-01,Food & Dining,357.15,UPI,Cafe coffee
+2024-11-01,Shopping,671.52,Debit Card,Books
+2024-11-02,Groceries,648.6,UPI,BigBasket order
+2024-11-02,Food & Dining,316.35,Credit Card,Lunch with friends
+2024-11-03,Personal Care,396.28,Debit Card,Skincare products
+2024-11-03,Utilities,743.7,Credit Card,Gas bill
+2024-11-03,Groceries,262.81,Cash,Dairy products
+2024-11-03,Personal Care,111.5,Net Banking,Perfume
+2024-11-03,Entertainment,1105.96,Debit Card,Gaming
+2024-11-04,Healthcare,633.02,Cash,Medicines
+2024-11-05,Personal Care,782.26,UPI,Perfume
+2024-11-06,Personal Care,650.49,Net Banking,Perfume
+2024-11-06,Food & Dining,403.79,Cash,Zomato order
+2024-11-06,Education,4914.68,Debit Card,Online course
+2024-11-06,Healthcare,1619.34,Debit Card,Medicines
+2024-11-06,Transportation,397.18,Debit Card,Auto fare
+2024-11-07,Healthcare,1182.82,Credit Card,Gym membership
+2024-11-08,Shopping,2491.04,UPI,Books
+2024-11-08,Food & Dining,340.74,UPI,Restaurant dinner
+2024-11-08,Food & Dining,355.14,Debit Card,Lunch with friends
+2024-11-08,Education,4951.05,Net Banking,Stationery
+2024-11-09,Food & Dining,639.64,Credit Card,Cafe coffee
+2024-11-09,Healthcare,1751.85,UPI,Lab tests
+2024-11-09,Utilities,748.95,Debit Card,Gas bill
+2024-11-10,Groceries,1094.64,Cash,Vegetables
+2024-11-10,Shopping,1639.75,Cash,Electronics
+2024-11-10,Personal Care,286.7,UPI,Grooming kit
+2024-11-10,Transportation,243.77,Credit Card,Bus ticket
+2024-11-11,Healthcare,384.68,Debit Card,Lab tests
+2024-11-11,Utilities,1391.83,Cash,Internet bill
+2024-11-11,Groceries,551.55,UPI,Vegetables
+2024-11-12,Education,1735.5,UPI,Online course
+2024-11-12,Education,2134.9,Credit Card,Online course
+2024-11-12,Shopping,2591.41,Cash,Amazon purchase
+2024-11-12,Shopping,481.53,Debit Card,Electronics
+2024-11-12,Education,4772.6,UPI,Software subscription
+2024-11-13,Groceries,1148.82,Debit Card,Fruits
+2024-11-13,Transportation,308.26,Net Banking,Metro card recharge
+2024-11-14,Healthcare,1369.21,Credit Card,Doctor visit
+2024-11-14,Food & Dining,628.19,Cash,Lunch with friends
+2024-11-14,Education,4610.94,UPI,Coaching fees
+2024-11-14,Utilities,1908.08,Credit Card,Mobile recharge
+2024-11-15,Groceries,400.18,Credit Card,BigBasket order
+2024-11-15,Groceries,372.66,Cash,BigBasket order
+2024-11-15,Healthcare,1402.11,UPI,Vitamins
+2024-11-16,Utilities,2282.66,Credit Card,Internet bill
+2024-11-16,Healthcare,1115.76,UPI,Medicines
+2024-11-16,Shopping,939.19,Cash,Amazon purchase
+2024-11-16,Healthcare,1197.24,Debit Card,Gym membership
+2024-11-16,Personal Care,190.84,UPI,Haircut
+2024-11-17,Education,4998.18,Cash,Software subscription
+2024-11-17,Education,3961.24,Net Banking,Online course
+2024-11-17,Shopping,2925.43,UPI,Books
+2024-11-18,Personal Care,341.16,Net Banking,Perfume
+2024-11-18,Shopping,2373.01,Credit Card,Books
+2024-11-18,Personal Care,737.5,UPI,Haircut
+2024-11-18,Personal Care,207.11,Credit Card,Skincare products
+2024-11-19,Entertainment,584.43,Net Banking,Concert
+2024-11-19,Transportation,162.77,Net Banking,Metro card recharge
+2024-11-19,Shopping,1987.56,Net Banking,Home decor
+2024-11-20,Personal Care,548.69,Net Banking,Perfume
+2024-11-21,Shopping,2078.58,Net Banking,Electronics
+2024-11-21,Food & Dining,686.4,UPI,Zomato order
+2024-11-22,Utilities,1802.26,Net Banking,Gas bill
+2024-11-23,Food & Dining,473.72,Net Banking,Cafe coffee
+2024-11-23,Utilities,1465.89,Cash,Water bill
+2024-11-23,Groceries,272.97,UPI,Local market
+2024-11-23,Groceries,615.62,Cash,Local market
+2024-11-23,Healthcare,1291.99,Debit Card,Lab tests
+2024-11-24,Education,1088.45,Debit Card,Software subscription
+2024-11-24,Personal Care,174.33,Credit Card,Grooming kit
+2024-11-24,Transportation,170.36,Credit Card,Auto fare
+2024-11-25,Food & Dining,338.64,Cash,Lunch with friends
+2024-11-26,Entertainment,1447.76,Credit Card,Concert
+2024-11-26,Healthcare,541.7,Credit Card,Gym membership
+2024-11-26,Personal Care,426.77,Debit Card,Grooming kit
+2024-11-26,Food & Dining,208.53,Cash,Lunch with friends
+2024-11-27,Entertainment,401.2,Debit Card,Movie tickets
+2024-11-27,Food & Dining,332.88,Net Banking,Street food
+2024-11-27,Utilities,1573.38,UPI,Gas bill
+2024-11-27,Shopping,2682.63,Debit Card,Books
+2024-11-28,Food & Dining,410.38,Net Banking,Lunch with friends
+2024-11-28,Entertainment,607.53,Debit Card,Movie tickets
+2024-11-28,Education,2769.15,Net Banking,Coaching fees
+2024-11-29,Transportation,107.9,UPI,Petrol
+2024-11-29,Healthcare,1630.82,Debit Card,Vitamins
+2024-11-29,Healthcare,1558.94,Credit Card,Vitamins
+2024-11-29,Personal Care,380.97,UPI,Haircut
+2024-11-29,Food & Dining,239.07,Debit Card,Street food
+2024-11-30,Groceries,348.94,Net Banking,Local market
+2024-11-30,Healthcare,1876.46,Debit Card,Medicines
+2024-11-30,Education,4957.77,Debit Card,Software subscription
+2024-11-30,Healthcare,1113.17,Net Banking,Vitamins
+2024-11-30,Groceries,908.74,Debit Card,Fruits
+2024-12-01,Rent,8000.0,Net Banking,Monthly rent
+2024-12-01,Healthcare,796.23,UPI,Gym membership
+2024-12-02,Utilities,2093.51,UPI,Mobile recharge
+2024-12-02,Groceries,465.53,Net Banking,Dairy products
+2024-12-02,Entertainment,1109.96,Net Banking,Gaming
+2024-12-02,Shopping,1715.43,Net Banking,Books
+2024-12-02,Shopping,2518.49,Credit Card,Amazon purchase
+2024-12-03,Transportation,135.85,Cash,Metro card recharge
+2024-12-03,Education,1181.44,Credit Card,Stationery
+2024-12-03,Personal Care,642.48,Cash,Haircut
+2024-12-03,Shopping,1700.44,Net Banking,Electronics
+2024-12-03,Groceries,725.48,Debit Card,Local market
+2024-12-04,Personal Care,339.63,Debit Card,Salon visit
+2024-12-04,Groceries,392.26,Credit Card,Vegetables
+2024-12-04,Personal Care,308.95,Debit Card,Salon visit
+2024-12-04,Entertainment,1066.34,Cash,Concert
+2024-12-05,Healthcare,1208.88,Debit Card,Lab tests
+2024-12-05,Transportation,308.06,Net Banking,Petrol
+2024-12-05,Education,4182.7,Credit Card,Coaching fees
+2024-12-05,Food & Dining,336.96,UPI,Cafe coffee
+2024-12-06,Utilities,1994.68,Credit Card,Internet bill
+2024-12-06,Personal Care,289.79,Net Banking,Salon visit
+2024-12-06,Shopping,594.91,Net Banking,Clothes
+2024-12-06,Entertainment,171.07,Net Banking,Netflix subscription
+2024-12-07,Food & Dining,215.13,Debit Card,Street food
+2024-12-07,Transportation,356.54,Credit Card,Uber ride
+2024-12-08,Shopping,1398.65,Cash,Books
+2024-12-08,Entertainment,1158.28,Debit Card,Concert
+2024-12-08,Utilities,1791.8,UPI,Mobile recharge
+2024-12-08,Entertainment,849.21,UPI,Netflix subscription
+2024-12-08,Education,4470.1,Credit Card,Online course
+2024-12-09,Groceries,386.31,Debit Card,BigBasket order
+2024-12-09,Food & Dining,343.95,Net Banking,Zomato order
+2024-12-09,Healthcare,712.21,Net Banking,Vitamins
+2024-12-09,Groceries,1089.26,Credit Card,Dairy products
+2024-12-10,Utilities,885.62,UPI,Water bill
+2024-12-10,Shopping,2274.02,Debit Card,Clothes
+2024-12-10,Food & Dining,628.8,Debit Card,Lunch with friends
+2024-12-10,Entertainment,345.69,Cash,Gaming
+2024-12-11,Healthcare,356.13,UPI,Medicines
+2024-12-11,Shopping,1589.13,Credit Card,Amazon purchase
+2024-12-11,Utilities,1267.15,Cash,Water bill
+2024-12-11,Healthcare,743.5,Net Banking,Doctor visit
+2024-12-11,Utilities,1807.37,Credit Card,Electricity bill
+2024-12-12,Groceries,506.81,Cash,Dairy products
+2024-12-13,Transportation,337.42,Debit Card,Metro card recharge
+2024-12-13,Entertainment,406.78,Credit Card,Gaming
+2024-12-13,Shopping,1528.44,Net Banking,Electronics
+2024-12-14,Personal Care,738.96,Net Banking,Skincare products
+2024-12-14,Entertainment,1052.48,Net Banking,Movie tickets
+2024-12-14,Personal Care,412.72,Debit Card,Haircut
+2024-12-14,Transportation,77.79,Net Banking,Bus ticket
+2024-12-15,Personal Care,204.9,Debit Card,Perfume
+2024-12-15,Groceries,316.24,Credit Card,Dairy products
+2024-12-16,Transportation,454.5,Cash,Uber ride
+2024-12-16,Groceries,331.94,Cash,Fruits
+2024-12-16,Food & Dining,513.22,Debit Card,Zomato order
+2024-12-16,Education,1645.06,UPI,Books
+2024-12-17,Transportation,70.38,Debit Card,Uber ride
+2024-12-17,Personal Care,795.89,UPI,Grooming kit
+2024-12-17,Food & Dining,336.61,Credit Card,Restaurant dinner
+2024-12-17,Education,2185.07,Cash,Stationery
+2024-12-17,Education,2190.4,Net Banking,Books
+2024-12-18,Transportation,130.31,Net Banking,Petrol
+2024-12-18,Personal Care,189.14,Credit Card,Haircut
+2024-12-18,Food & Dining,786.02,Cash,Lunch with friends
+2024-12-19,Personal Care,365.49,Credit Card,Skincare products
+2024-12-19,Groceries,546.16,Debit Card,Local market
+2024-12-19,Transportation,64.5,Cash,Bus ticket
+2024-12-19,Food & Dining,306.43,UPI,Zomato order
+2024-12-20,Food & Dining,440.19,UPI,Restaurant dinner
+2024-12-20,Food & Dining,411.47,Credit Card,Lunch with friends
+2024-12-20,Entertainment,1156.14,UPI,Netflix subscription
+2024-12-20,Personal Care,795.44,Credit Card,Perfume
+2024-12-20,Healthcare,1239.45,Debit Card,Medicines
+2024-12-21,Shopping,2961.38,Net Banking,Clothes
+2024-12-21,Education,1852.25,UPI,Software subscription
+2024-12-21,Shopping,1990.18,Cash,Home decor
+2024-12-22,Food & Dining,781.99,Cash,Lunch with friends
+2024-12-22,Healthcare,1453.36,Cash,Medicines
+2024-12-22,Utilities,1252.92,Net Banking,Gas bill
+2024-12-22,Entertainment,1289.08,Debit Card,Netflix subscription
+2024-12-23,Food & Dining,515.55,Cash,Lunch with friends
+2024-12-23,Personal Care,193.86,Credit Card,Salon visit
+2024-12-23,Entertainment,562.37,UPI,Gaming
+2024-12-23,Healthcare,366.44,Credit Card,Doctor visit
+2024-12-24,Education,3531.52,Net Banking,Online course
+2024-12-24,Transportation,134.67,Net Banking,Bus ticket
+2024-12-24,Entertainment,771.15,Debit Card,Concert
+2024-12-25,Entertainment,1412.02,UPI,Gaming
+2024-12-26,Entertainment,655.28,Credit Card,OTT subscription
+2024-12-26,Healthcare,1595.92,Cash,Gym membership
+2024-12-27,Healthcare,755.16,Debit Card,Vitamins
+2024-12-27,Groceries,666.0,Cash,Vegetables
+2024-12-27,Entertainment,618.99,Cash,Movie tickets
+2024-12-27,Entertainment,1137.75,UPI,Concert
+2024-12-27,Personal Care,754.33,Net Banking,Grooming kit

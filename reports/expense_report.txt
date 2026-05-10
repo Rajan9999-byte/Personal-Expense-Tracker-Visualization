@@ -1,0 +1,69 @@
+============================================================
+  PERSONAL EXPENSE TRACKER — FULL REPORT
+  Generated on: 05 May 2026, 11:54 AM
+============================================================
+
+============================================================
+  📊 KEY METRICS
+============================================================
+  Total Spent                   : ₹651,429.92
+  Total Transactions            : 561
+  Date Range (days)             : 180
+  Months Covered                : 6
+  Avg Daily Spending            : ₹3,619.06
+  Avg Per Transaction           : ₹1,161.19
+  Highest Spend Category        : Education
+  Largest Single Expense        : ₹8,000.00
+  Most Used Payment             : Net Banking
+
+============================================================
+  📂 CATEGORY-WISE BREAKDOWN
+============================================================
+  Education            ₹180,372.38  ( 27.7%)
+  Shopping             ₹ 94,972.04  ( 14.6%)
+  Utilities            ₹ 88,858.61  ( 13.6%)
+  Healthcare           ₹ 71,232.50  ( 10.9%)
+  Groceries            ₹ 52,342.38  (  8.0%)
+  Rent                 ₹ 48,000.00  (  7.4%)
+  Entertainment        ₹ 42,809.97  (  6.6%)
+  Food & Dining        ₹ 28,662.05  (  4.4%)
+  Personal Care        ₹ 26,710.43  (  4.1%)
+  Transportation       ₹ 17,469.56  (  2.7%)
+
+============================================================
+  📅 MONTHLY SPENDING
+============================================================
+  Jul 2024     ₹ 92,839.84  (86 txns)
+  Aug 2024     ₹103,219.21  (94 txns)
+  Sep 2024     ₹124,327.65  (89 txns)
+  Oct 2024     ₹101,453.88  (98 txns)
+  Nov 2024     ₹128,852.90  (97 txns)
+  Dec 2024     ₹100,736.44  (97 txns)
+
+============================================================
+  💳 PAYMENT METHOD BREAKDOWN
+============================================================
+  Net Banking     ₹174,193.86  ( 26.7%)
+  Debit Card      ₹129,800.78  ( 19.9%)
+  Credit Card     ₹126,338.62  ( 19.4%)
+  Cash            ₹121,055.63  ( 18.6%)
+  UPI             ₹100,041.03  ( 15.4%)
+
+============================================================
+  🔝 TOP 5 LARGEST EXPENSES
+============================================================
+  2024-07-01   Rent                 ₹8,000.00  Monthly rent
+  2024-08-01   Rent                 ₹8,000.00  Monthly rent
+  2024-09-01   Rent                 ₹8,000.00  Monthly rent
+  2024-10-01   Rent                 ₹8,000.00  Monthly rent
+  2024-11-01   Rent                 ₹8,000.00  Monthly rent
+
+============================================================
+  💡 INSIGHTS & RECOMMENDATIONS
+============================================================
+  • Your highest spending category is 'Education' (27.69% of total). Consider setting a monthly cap.
+  • Avg daily spend (₹3,619.06) is high. Try the 50-30-20 budget rule.
+  • You used 'Net Banking' most often. Using credit cards can offer cashback rewards.
+  • Review your top expenses monthly to identify non-essential spending.
+
+============================================================
